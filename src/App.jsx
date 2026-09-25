@@ -3,7 +3,7 @@ import big from "./assets/logo.png";
 import kin from "./assets/london.png";
 import iba from "./assets/newyork.png";
 import owe from "./assets/washington.png";
-import lib from "./assets/Library.png";
+import lib from "./assets/library.png";
 import play from "./assets/basketball.png";
 import caf from "./assets/cafeteria.png";
 import madu from "./assets/user1.jpg";
